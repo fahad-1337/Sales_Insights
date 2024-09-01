@@ -7,7 +7,7 @@ __Project Workflow__
 
 __Defining North-Star Metrics:__
 
-Revenue: The total income generated from sales of products or services over a specific period.
+Revenue: The total income generated from sales of products or services over a specific period.<br>
 Sales Quantity: The total number of units sold within a specific period.
 
 __Ad Hoc Analysis in MySQL:__
@@ -17,13 +17,13 @@ Utilized SQL queries to explore data, identify trends, and generate insights.
 
 Key ad hoc analyses performed include:
 
-Total Sales by Product: Identified top-performing products based on total revenue.
-Sales Quantity by Market: Assessed product sales across different markets.
-Customer Type Distribution: Analyzed the number of different customer types.
-Zero Sales Transactions: Investigated transactions with zero or negative sales amounts.
-Average Sales per Order: Measured average revenue per order for each product.
-Top-Performing Markets: Identified markets with the highest sales.
-Unique Customers Annually: Tracked unique customer counts each year.
+Total Sales by Product: Identified top-performing products based on total revenue.<br>
+Sales Quantity by Market: Assessed product sales across different markets.<br>
+Customer Type Distribution: Analyzed the number of different customer types.<br>
+Zero Sales Transactions: Investigated transactions with zero or negative sales amounts.<br>
+Average Sales per Order: Measured average revenue per order for each product.<br>
+Top-Performing Markets: Identified markets with the highest sales.<br>
+Unique Customers Annually: Tracked unique customer counts each year.<br>
 
 *SQL File included.
 
