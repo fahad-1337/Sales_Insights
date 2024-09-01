@@ -34,12 +34,12 @@ Performed data modeling in Power BI to transform the data structure for optimal 
 
 ![Model](https://github.com/fahad-1337/Sales_Insights/blob/bb1f575d0a7cff88dc3e963cd816f84b67e83c6c/data_model.png)
 
-__Data Cleaning and Processing with Power Query:__
-Used Power Query within Power BI to clean and process the data handling transactions with different currencies and negative sales amount.
+__Data Cleaning and Processing with Power Query:__<br>
+Used Power Query within Power BI to clean and process the data handling transactions with different currencies and negative sales amount.<br>
 Ensured data quality and consistency to support accurate analysis.
 
-__Dashboard Creation:__
-Built an interactive dashboard in Power BI to visualize the insights.
+__Dashboard Creation:__<br>
+Built an interactive dashboard in Power BI to visualize the insights.<br>
 The dashboard allows users to explore data dynamically and gain actionable insights.
 
 ![Dashboard](https://github.com/fahad-1337/Sales_Insights/blob/bb1f575d0a7cff88dc3e963cd816f84b67e83c6c/sales_insights_dashboard.png)
