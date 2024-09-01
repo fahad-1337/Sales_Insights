@@ -1,4 +1,4 @@
-# Sales_Insights - Brick and Mortar Business
+# Sales Insights - Brick and Mortar Business
 
 __Problem Statement:__ The business struggles with making informed decisions due to a lack of actionable insights from their data. Current data analysis methods are insufficient for identifying key trends and optimizing operations. The business needs a solution to transform raw data into meaningful insights and present them in an actionable format, enabling better decision-making and strategic planning.
 
