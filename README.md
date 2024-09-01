@@ -17,13 +17,7 @@ Utilized SQL queries to explore data, identify trends, and generate insights.
 
 Key ad hoc analyses performed include:
 
-Total Sales by Product: Identified top-performing products based on total revenue.<br>
-Sales Quantity by Market: Assessed product sales across different markets.<br>
-Customer Type Distribution: Analyzed the number of different customer types.<br>
-Zero Sales Transactions: Investigated transactions with zero or negative sales amounts.<br>
-Average Sales per Order: Measured average revenue per order for each product.<br>
-Top-Performing Markets: Identified markets with the highest sales.<br>
-Unique Customers Annually: Tracked unique customer counts each year.<br>
+Total Sales by Product, Sales Quantity by Market, Customer Type Distribution, Zero Sales Transactions, Average Sales per Order for each product, Top-Performing Markets, Unique Customers Annually.<br>
 
 *SQL File included.
 
@@ -35,10 +29,12 @@ Performed data modeling in Power BI to transform the data structure for optimal 
 ![Model](https://github.com/fahad-1337/Sales_Insights/blob/bb1f575d0a7cff88dc3e963cd816f84b67e83c6c/data_model.png)
 
 __Data Cleaning and Processing with Power Query:__<br>
+
 Used Power Query within Power BI to clean and process the data handling transactions with different currencies and negative sales amount.<br>
 Ensured data quality and consistency to support accurate analysis.
 
 __Dashboard Creation:__<br>
+
 Built an interactive dashboard in Power BI to visualize the insights.<br>
 The dashboard allows users to explore data dynamically and gain actionable insights.
 
