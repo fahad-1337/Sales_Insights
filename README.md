@@ -5,10 +5,27 @@ __Problem Statement:__ The business struggles with making informed decisions due
 
 __Project Workflow__
 
+__Defining North-Star Metrics:__
+
+Revenue: The total income generated from sales of products or services over a specific period.
+Sales Quantity: The total number of units sold within a specific period.
+
 __Ad Hoc Analysis in MySQL:__
 
 Conducted ad hoc analysis to answer key business questions.
 Utilized SQL queries to explore data, identify trends, and generate insights.
+
+Key ad hoc analyses performed include:
+
+Total Sales by Product: Identified top-performing products based on total revenue.
+Sales Quantity by Market: Assessed product sales across different markets.
+Customer Type Distribution: Analyzed the number of different customer types.
+Zero Sales Transactions: Investigated transactions with zero or negative sales amounts.
+Average Sales per Order: Measured average revenue per order for each product.
+Top-Performing Markets: Identified markets with the highest sales.
+Unique Customers Annually: Tracked unique customer counts each year.
+
+*SQL File included.
 
 __Data Extraction and Modeling in Power BI:__
 
@@ -18,7 +35,7 @@ Performed data modeling in Power BI to transform the data structure for optimal 
 ![Model](https://github.com/fahad-1337/Sales_Insights/blob/bb1f575d0a7cff88dc3e963cd816f84b67e83c6c/data_model.png)
 
 __Data Cleaning and Processing with Power Query:__
-Used Power Query within Power BI to clean and process the data.
+Used Power Query within Power BI to clean and process the data handling transactions with different currencies and negative sales amount.
 Ensured data quality and consistency to support accurate analysis.
 
 __Dashboard Creation:__
