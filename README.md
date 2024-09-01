@@ -5,20 +5,24 @@ __Problem Statement:__ The business struggles with making informed decisions due
 
 __Project Workflow__
 
-Ad Hoc Analysis in MySQL:
+__Ad Hoc Analysis in MySQL:__
+
 Conducted ad hoc analysis to answer key business questions.
 Utilized SQL queries to explore data, identify trends, and generate insights.
 
-Data Extraction and Modeling in Power BI:
+__Data Extraction and Modeling in Power BI:__
+
 Extracted the database from MySQL into Power BI for further analysis.
 Performed data modeling in Power BI to transform the data structure for optimal analysis and visualization.
+
 ![Model](https://github.com/fahad-1337/Sales_Insights/blob/bb1f575d0a7cff88dc3e963cd816f84b67e83c6c/data_model.png)
 
-Data Cleaning and Processing with Power Query:
+__Data Cleaning and Processing with Power Query:__
 Used Power Query within Power BI to clean and process the data.
 Ensured data quality and consistency to support accurate analysis.
 
-Interactive Dashboard Creation:
+__Dashboard Creation:__
 Built an interactive dashboard in Power BI to visualize the insights.
 The dashboard allows users to explore data dynamically and gain actionable insights.
+
 ![Dashboard](https://github.com/fahad-1337/Sales_Insights/blob/bb1f575d0a7cff88dc3e963cd816f84b67e83c6c/sales_insights_dashboard.png)
